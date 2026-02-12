@@ -69,7 +69,7 @@ Based on the segmentation results, the project suggests simple and practical mar
 - Ask what would make them buy more and show you value their opinion.
 
 3. Customers in Cluster 0: Inactive and at-risk customers since they have very low R, F, and M Scores. We can provide them with the following:
-- You can send them a re-engagement email, such as “We’ve missed you!” with a special discount or gift.
+- You can send them a re-engagement email, with a special discount or gift.
 - Offer a one-time, big discount or free shipping.
 - Encourage them to update their preferences or interests.
 - Showcase bestsellers or new arrivals to get their attention.
